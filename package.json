@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "run:tailwind": "npx tailwind build tailwind-style.css -o styles/tailwind.css"
+    },
+    "dependencies": {
+        "tailwindcss-gradients": "^3.0.0"
+    },
+    "devDependencies": {
+        "tailwindcss": "^1.2.0"
+    }
+}
